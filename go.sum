@@ -1112,8 +1112,6 @@ github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFR
 github.com/rogpeppe/go-internal v1.6.1 h1:/FiVV8dS/e+YqF2JvO3yXRFbBLTIuSDkuC7aBOAvL+k=
 github.com/rollkit/cosmos-sdk v0.46.7-rollkit-v0.6.0-no-fraud-proofs h1:JpAS6pozs9TJCDuDmDPxsypGM9aXTclS8qTZuzwl2XM=
 github.com/rollkit/cosmos-sdk v0.46.7-rollkit-v0.6.0-no-fraud-proofs/go.mod h1:8sp92Gf6kayyVpdkn0aQ8a+kr5QpUpStqnp+JbseW98=
-github.com/rollkit/rollkit v0.6.0 h1:q0iNzyQy7shEauxGdcMe1BFfptQS0dwbaheS/FkA3lk=
-github.com/rollkit/rollkit v0.6.0/go.mod h1:K0LOo4g/UgmeTwXtlbJ0nHW2O/nOZFEk+ijv9t5eC40=
 github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
 github.com/rs/cors v1.8.3 h1:O+qNyWn7Z+F9M0ILBHgMVPuB1xTOucVd5gtaYyXBpRo=
 github.com/rs/cors v1.8.3/go.mod h1:XyqrcTp5zjWr1wsJ8PIRZssZ8b/WMcMf71DJnit4EMU=
